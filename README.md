@@ -1,5 +1,10 @@
-# Bem vindo ao curso Github
+# Bem vindo ao curso Git e Github
 
-Descricao do meu README
+Nesse curso voce vai dominar todo git e github do zero ao profissional
+
+
+## Módulos
+Entendendo o que é git, Aprendendo sobre repositórios, Trabalhando com branches
+
 
 
