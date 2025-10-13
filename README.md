@@ -14,12 +14,13 @@ Nesse curso voce vai dominar todo **git** e **github** _do zero ao profissional_
 * Usando github de forma profissional.
 
 
-1. Começando com GIT
-        1. O que é git.
-        2. Instalando o git na máquina.
-2. Aprendendo sobre branches.
-3. GIT avançado.
-4. usando github de forma profissional.
+1. Começando com GIT  
+    1. O que é git.  
+    2. Instalando o git na máquina.  
+2. Aprendendo sobre branches.  
+3. GIT avançado.  
+4. Usando GitHub de forma profissional.
+
 
 
 
@@ -30,4 +31,39 @@ Nesse curso voce vai dominar todo **git** e **github** _do zero ao profissional_
 [Youtube](https://youtube.com/c/sujeitoprogramador)
 
 
+>Este é um blockquote, usado para destacar alguma área.
+
+>Segunda área destacada
+
+**Comando para rodar o projeto:**
+
+```
+npm start
+```
+
+**Exemplo de uso do script:**
+
+```js
+
+function showName(name){
+    return 'Bem vindo: ' + name';
+}
+```
+
+**Uso do componente HTML:**
+```html
+<h1>
+    Título do projeto
+    <span>Curso Git<span>
+</h1>
+```
+
+**CSS padrao do projeto:**
+```css
+.titulo{
+    background-color: #FFF;
+    color: $FF0000;
+
+}
+```
 
